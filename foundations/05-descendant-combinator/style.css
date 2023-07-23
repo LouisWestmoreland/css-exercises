@@ -1,0 +1,11 @@
+.text {
+    color: black;
+}
+
+.text.styled {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+
+}
