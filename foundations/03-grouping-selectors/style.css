@@ -1,0 +1,12 @@
+.default,
+.altered {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+.default {
+    background-color: black;
+    color: white;
+}
+.altered{
+    background-color: yellow;
+}
